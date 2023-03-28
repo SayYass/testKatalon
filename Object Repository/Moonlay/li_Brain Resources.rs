@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Brain Resources</name>
+   <tag></tag>
+   <elementGuidId>2ff5b8a7-4026-4db6-97a0-95ca560ed126</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='select2-ff_3_dropdown-result-c881-Brain Resources']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>113716a3-373f-427a-805a-f9378b9231ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>8bce7a6d-73b5-4fe4-aa48-1f49cbe0e040</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-ff_3_dropdown-result-c881-Brain Resources</value>
+      <webElementGuid>f5144cba-dd4c-4a87-99e4-938b5282e497</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>treeitem</value>
+      <webElementGuid>730412d7-7c27-4387-87b5-67e916031795</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>f9912a49-d15f-425d-9e16-842b91f4b6b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Brain Resources</value>
+      <webElementGuid>c74078c5-8ae7-4145-9c03-16f827e083f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-ff_3_dropdown-result-c881-Brain Resources&quot;)</value>
+      <webElementGuid>8cefac1f-9ed7-4087-beff-90da1463bf6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='select2-ff_3_dropdown-result-c881-Brain Resources']</value>
+      <webElementGuid>eed56b05-313a-4690-99e5-83aea57ed3b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='select2-ff_3_dropdown-results']/li[3]</value>
+      <webElementGuid>ce6a1783-f40d-40cb-a019-1501008c75ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apps and Cloud'])[4]/following::li[1]</value>
+      <webElementGuid>bb1557b4-ac90-4dba-9795-4ffe28b403d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- Select one service -'])[3]/following::li[2]</value>
+      <webElementGuid>04d392eb-40ba-4cef-ae8e-9572fb4d21c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/ul/li[3]</value>
+      <webElementGuid>23abf734-43d2-43a3-aeb3-e40267fd6a6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'select2-ff_3_dropdown-result-c881-Brain Resources' and (text() = 'Brain Resources' or . = 'Brain Resources')]</value>
+      <webElementGuid>b5c614f2-0bd7-4795-8aa4-d334c6ad5e2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Apps and Cloud</name>
+   <tag></tag>
+   <elementGuidId>8abe4833-56d2-4d47-94c0-91a02c007303</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='select2-ff_3_dropdown-result-i72j-Apps and Cloud']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>c0053e71-c985-4361-96e9-cacaee782723</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>30890ed8-6e5a-448d-96a1-361200fbd8b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-ff_3_dropdown-result-i72j-Apps and Cloud</value>
+      <webElementGuid>2ee8b385-4642-4b76-b336-41fca5749ddc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>treeitem</value>
+      <webElementGuid>1eb8b946-755f-458a-ab4a-89b21116d150</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>494089d8-f561-4e4d-a2f8-b9be691f1009</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apps and Cloud</value>
+      <webElementGuid>95721b41-e10c-447c-b83a-d342b48b25d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-ff_3_dropdown-result-i72j-Apps and Cloud&quot;)</value>
+      <webElementGuid>621a9f2b-ec45-47a3-b376-8de9f00dd7dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='select2-ff_3_dropdown-result-i72j-Apps and Cloud']</value>
+      <webElementGuid>94b38d5f-1ba2-41e9-89cb-11c8ca6338ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='select2-ff_3_dropdown-results']/li[2]</value>
+      <webElementGuid>9ff6115a-eaf6-409e-b84b-69dbfe492d25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- Select one service -'])[2]/following::li[1]</value>
+      <webElementGuid>3192a584-b5f2-4c7b-b090-52dbdd504896</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'select2-ff_3_dropdown-result-i72j-Apps and Cloud', '&quot;', ')')])[1]/following::li[2]</value>
+      <webElementGuid>ebbf73dd-c5f8-4650-b13c-b6a1fda84acc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brain Resources'])[5]/preceding::li[1]</value>
+      <webElementGuid>d3c70d04-6987-40a1-b181-473c842f3a78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/ul/li[2]</value>
+      <webElementGuid>485cb05d-795b-4b1b-93a9-2c1c16364ab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'select2-ff_3_dropdown-result-i72j-Apps and Cloud' and (text() = 'Apps and Cloud' or . = 'Apps and Cloud')]</value>
+      <webElementGuid>a7177694-685c-4ce2-8160-4b0f02041a22</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
